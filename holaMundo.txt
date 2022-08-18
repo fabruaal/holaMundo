@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Commit de John Robledo
 comit hugo
+=======
+Commit de John Robledo desde GitHub
+Commit de John Robledo desde local
+commit hugo
+commit John
+commit Andres
