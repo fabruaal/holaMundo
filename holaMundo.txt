@@ -1,2 +1,6 @@
 Commit de John Robledo
+<<<<<<< HEAD
 COMIT DE HUGO
+=======
+comit hugo
+>>>>>>> 3f3ce091d2172ea8d2fc85fc82ce7d188cdf6659
